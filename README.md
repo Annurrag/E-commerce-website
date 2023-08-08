@@ -5,4 +5,5 @@ E-commerce clothing website link :: https://annurrag.github.io/E-commerce-websit
 
 Website Home Page:
 
-![E-commerce-website](https://github.com/Annurrag/E-commerce-website/assets/88084545/161c9c20-5fd6-4cf0-8a2c-80c0095697aa)
+
+![E-commerce-website](https://github.com/Annurrag/E-commerce-website/assets/88084545/15043e06-2257-49c7-929c-ef96a09e1419)
